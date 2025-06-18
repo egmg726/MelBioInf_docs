@@ -27,7 +27,7 @@ Effective 1st August 2025, the following policy will be implemented:
 To avoid being marked as a no-show:
 
 *	Participants must cancel their registration at least 48 hours before the workshop start time.
-*	Cancellations should be made through Eventbrite or by emailing the Melbourne Bioinformatics training email (bioinformatics-training@unimelb.edu.au)
+*	Cancellations should be made through Eventbrite or by emailing the Melbourne Bioinformatics training email
 
 ## 4. Exceptions
 Exceptions to this policy may be granted in cases of:
